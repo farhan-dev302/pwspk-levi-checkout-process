@@ -9,6 +9,8 @@ This repository contains a customized checkout template for the Paid Memberships
    `/wp-content/themes/<your-theme>/paid-memberships-pro/pages/checkout.php`.
 3. **Verify functionality**:  
    Ensure that the PMPro checkout process reflects the customizations.
+4. **URL to visit the process**:  
+   your-domain/membership-checkout
 ## Notes
 - This customization overrides the default PMPro checkout template. 
 - Make sure to back up your site and test in a staging environment before deploying to production.
